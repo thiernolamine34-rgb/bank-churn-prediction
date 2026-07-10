@@ -4,7 +4,7 @@ PHASE 1 — SELECTION DU MODELE
 5 modèles testés avant de choisir XGBoost :
 
 1. LogisticRegression (baseline)
-   Recall : 0.700 | ROC-AUC : 0.771
+   Recall : 0.629 | ROC-AUC : 0.77
    Écarté : relations non-linéaires non capturées
 
 2. RandomForestClassifier
